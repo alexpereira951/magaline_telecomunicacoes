@@ -299,6 +299,20 @@ Com `α = 0,05`, o teste final não rejeitou a hipótese nula de igualdade das m
 
 ---
 
+## ⚠️ Limitações
+
+O projeto apresenta algumas limitações que devem ser consideradas na interpretação dos resultados:
+
+1. **Período de análise limitado:** os dados utilizados correspondem ao ano de **2018**, portanto os padrões de consumo e receita observados representam apenas esse período e podem não refletir comportamentos atuais.
+
+2. **Ausência de variáveis externas:** a análise considera principalmente dados de utilização dos serviços e informações dos clientes, sem incorporar fatores externos como concorrência, campanhas promocionais, sazonalidade comercial ou alterações de mercado que poderiam influenciar o consumo.
+
+3. **Diferenças na quantidade de dados entre os planos:** a distribuição de clientes entre **Surf** e **Ultimate** não é necessariamente equilibrada, o que pode influenciar a comparação das estatísticas descritivas e da variabilidade observada entre os grupos.
+
+4. **Escopo estatístico dos testes:** os testes de hipóteses realizados avaliam especificamente as comparações definidas no projeto e dependem das premissas dos métodos estatísticos utilizados. Portanto, seus resultados não devem ser generalizados para outros períodos, populações ou cenários sem uma análise adicional.
+
+> Os resultados devem, portanto, ser interpretados dentro do contexto do conjunto de dados, período analisado e escopo metodológico definidos neste projeto.
+
 ## 🔎 Insights de Negócio
 
 A análise evidencia alguns padrões relevantes para a área comercial:
